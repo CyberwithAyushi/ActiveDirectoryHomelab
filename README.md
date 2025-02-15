@@ -4,8 +4,11 @@ This project sets up an Active Directory (AD) home lab to simulate real-world cy
 
 # Key Features:
 ✅ Active Directory Setup – Configure a Windows domain environment for security testing.
+
 ✅ Splunk Integration – Collect and analyze logs from various sources for threat detection.
+
 ✅ Attack Simulation – Use Atomic Red Team to generate real-world attack scenarios.
+
 ✅ Brute Force Attack via RDP – Perform and detect unauthorized login attempts.
 
 # Tools to be used:
