@@ -6,15 +6,15 @@ This project sets up an Active Directory (AD) home lab to simulate real-world cy
 # Tools to be used:
 VirtualBox (https://virtualbox.org) - virtual machine
 
-•	Windows Server 2022 as the server with Active Directory
+  •	Windows Server 2022 as the server with Active Directory
 
-•	Kali Linux - attacker machine
+  •	Kali Linux - attacker machine
 
-•	Windows 10 Pro - target machine
+  •	Windows 10 Pro - target machine
 
 Splunk (www.splunk.com) - SIEM tool
 
-•	Splunk Universal Forwarder - log forwarder
+ •	Splunk Universal Forwarder - log forwarder
 
 Sysmon - log collection for Windows
 
