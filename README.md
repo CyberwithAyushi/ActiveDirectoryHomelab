@@ -12,6 +12,8 @@ VirtualBox (https://virtualbox.org) - Virtual Machine
 
   •	Windows 10 Pro - Target Machine
 
+  •	Ubuntu Server - Splunk Server
+
 Splunk (www.splunk.com) - SIEM tool
 
  •	Splunk Universal Forwarder - Log Forwarder
