@@ -3,7 +3,7 @@ This project sets up an Active Directory (AD) home lab to simulate real-world cy
 
 
 
-# Tools to be used:
+# Tools Used:
 VirtualBox (https://virtualbox.org) - Virtual Machine
 
   •	Windows Server 2022 as the server with Active Directory
